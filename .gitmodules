@@ -1,0 +1,20 @@
+[submodule "binutils-gdb"]
+	path = src/binutils-gdb
+	url = https://github.com/murachue/binutils-gdb.git
+	branch = binutils-2_35-branch
+[submodule "gcc"]
+	path = src/gcc
+	url = https://github.com/murachue/gcc.git
+	branch = 11.1.0-os9
+[submodule "newlib-cygwin"]
+	path = src/newlib-cygwin
+	url = https://github.com/murachue/newlib-cygwin.git
+	branch = newlib-4.1.0-os9
+[submodule "psximager"]
+	path = src/psximager
+	url = https://github.com/murachue/psximager.git
+	branch = master
+[submodule "elf2mod"]
+	path = src/elf2mod
+	url = https://github.com/murachue/elf2mod.git
+	branch = main
