@@ -13,7 +13,7 @@
 [submodule "psximager"]
 	path = src/psximager
 	url = https://github.com/murachue/psximager.git
-	branch = master
+	branch = cdi
 [submodule "elf2mod"]
 	path = src/elf2mod
 	url = https://github.com/murachue/elf2mod.git
